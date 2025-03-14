@@ -18,7 +18,7 @@ void replace(char input[]){
     }
     else
     replace(input+1);
-}xyz
+}
 
 int main()
   {
