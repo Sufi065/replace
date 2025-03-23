@@ -28,4 +28,4 @@ int main()
     replace(input);
     cout<<input;
     return 0;
- }
+ }sifi
