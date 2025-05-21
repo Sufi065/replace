@@ -1,5 +1,6 @@
 #include <iostream>
 #include<cstring>
+#include<string.h>
 using namespace std;
 
 void replace(char input[]){
