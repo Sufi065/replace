@@ -20,6 +20,8 @@ void replace(char input[]){
     else
     replace(input+1);
 }
+//TC:O(n)
+//SP:O(n)
 
 int main()
   {
