@@ -31,4 +31,6 @@ int main()
     replace(input);
     cout<<input;
     return 0;
+//TC:O(n)
+//SP:O(n)
   }
